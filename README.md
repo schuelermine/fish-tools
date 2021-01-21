@@ -1,1 +1,1 @@
-# shell-utils
+Commands for your fish shell
