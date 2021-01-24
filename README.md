@@ -1,10 +1,10 @@
-`shell-utils`:  
-Commands for your fish shell
+`fish-tools`:  
+Some commands for your fish shell
 ===
 
-You can install a file by running the `install-fish-function.fish` script.  
+You can install a file by running the `install-function.fish` script.  
 For example, to install all of these commands, run:
 ```fish
-./install-fish-function.fish **.fish
+./install-function.fish **.fish
 ```
 in the directory you've downloaded this repository to.
