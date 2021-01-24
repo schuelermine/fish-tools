@@ -1,3 +1,3 @@
 function ll+ --wraps ll --description "Recursively list all items"
- ll -AR $argv;
+    ll -AR $argv
 end

@@ -1,3 +1,3 @@
 function hexdump --wraps hexdump
- command hexdump -C $argv;
+    command hexdump -C $argv
 end
