@@ -8,3 +8,5 @@ For example, to install all of these commands, run:
 ./install.fish **.fish
 ```
 in the directory you've downloaded this repository to.
+
+If, for some reason, this fails, try running `fish ./install.fish` instead.
